@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.DS_Store
+
+# dependencies
+/rdao-app/node_modules
+/rdao-app/.pnp
+/rdao-app/.pnp.js
+
+# testing
+/rdao-app/coverage
+
+# production
+/rdao-app/build
+
+# misc
+/rdao-app/.DS_Store
+/rdao-app/.env.local
+/rdao-app/.env.development.local
+/rdao-app/.env.test.local
+/rdao-app/.env.production.local
+
+/rdao-app/npm-debug.log*
+/rdao-app/yarn-debug.log*
+/rdao-app/yarn-error.log*
