@@ -1,0 +1,23 @@
+.Article-info {
+    min-height: 200px;
+    margin-bottom: 15px;
+    margin-right: auto;
+    font-size: 15px;
+    background: rgb(31,31,31) ;
+    background-clip: padding-box;
+    border: 4px solid transparent;
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+
+.Vote-info {
+    min-height: 200px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    font-size: 15px;
+    background: rgb(31,31,31) ;
+    background-clip: padding-box;
+    border: 4px solid transparent;
+    border-radius: 25px;
+    box-sizing: border-box;
+}

@@ -1,7 +1,19 @@
-div.main {
+div.home {
     background-color:#262c43;
     color: floralwhite;
     min-height: 1250px;
     text-align: center;
     padding-top: 50px;
+}
+
+.home h1 {
+    margin-bottom: 50px;
+}
+
+.home h4 {
+    margin-bottom: 15px;
+}
+
+.home h6 {
+    margin-top: 50px;
 }

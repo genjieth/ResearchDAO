@@ -1,0 +1,79 @@
+.vote {
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.title-vote {
+    margin: 0px;
+}
+
+.vote-info {
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+
+.vote-tool {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+input.nbVotes {
+    width: 25%;
+    text-align: center;
+}
+
+.button-minus {
+    position:absolute;
+    display: inline-flex;
+    align-items: center;
+    display: inline-block;
+    top: -7px;
+    left: 0px;
+    width: 55px;
+    border-radius: 15px;
+    background-color:rgb(246, 70, 93);
+    color:floralwhite;
+}
+
+.button-plus {
+    position:absolute;
+    display: inline-flex;
+    align-items: center;
+    display: inline-block;
+    top: -7px;
+    right: 0px;
+    border-radius: 15px;
+    background-color:rgb(14, 203, 129);
+    color:floralwhite;
+}
+
+.cost {
+    color: floralwhite;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: "Google Sans";
+    margin-top: 20px;
+}
+
+.submit-vote {
+    margin-top: 10px;
+    position: relative;
+    display: inline-flex;
+    left: 55px;
+    bottom: 30px;
+}
+
+.submit-vote button {
+    height: 15px;
+    box-sizing: content-box;
+    border-radius: 25px;
+    font-size: 10px;
+    color:floralwhite;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}

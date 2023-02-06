@@ -1,0 +1,68 @@
+div.header {
+    position: relative;
+    background: #262c43 ;
+    opacity: 90%;
+    color:floralwhite;
+    height: 70px;
+}
+
+img {
+    position: relative;
+    top: 15px;
+    left: 15px;
+    
+    width: 3%;
+    height: auto;
+}
+
+button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    background-color: #03a9f4;
+    color: #fff;
+    font-weight: 600;
+    border-width: 0;
+    cursor: pointer;
+  }
+  
+button:hover {
+background-color: #039be5;
+}
+
+button:active {
+background-color: #0288d1;
+}
+
+span.showAccount {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+
+    border-radius: 15px;
+    padding: 5px;
+    border: 2px solid;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+div.navbar {
+    position: absolute;
+    top: 25px;
+    left: 80px;
+}
+
+a.nav-link {
+    color: #9fa6b8 !important;
+    transition: opacity .2s ease,fill .2s ease !important;
+}
+
+
+a.nav-link:hover {
+    color: #fff !important;;
+    opacity: 1 !important;
+}

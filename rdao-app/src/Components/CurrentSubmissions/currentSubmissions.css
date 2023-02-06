@@ -1,7 +1,6 @@
-div.main {
+div.currentSubmissions {
     background-color:#262c43;
     color: floralwhite;
     min-height: 1250px;
-    text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
 }

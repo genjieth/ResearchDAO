@@ -1,0 +1,39 @@
+.article {
+    padding-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.title-vote {
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+div.title a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "Google Sans",sans-serif;
+    font-size: 1.2rem;
+}
+
+.author {
+    text-align: right;
+    margin-right: 15px;
+    color: floralwhite;
+    font-size: 1rem;
+
+    font-weight: bold;
+    font-family: "Google Sans";
+    margin-bottom: 15px;
+}
+
+div.author a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "Google Sans",sans-serif;
+    font-size: 1rem;
+}

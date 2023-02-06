@@ -1,0 +1,168 @@
+div.owner {
+    background-color:#262c43;
+    color: floralwhite;
+    min-height: 1250px;
+    text-align: center;
+}
+
+div.set-fee {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+div.set-fee input {
+    position: relative;
+    width: 5%;
+    text-align: center;
+}
+
+div.set-fee button{
+    position: relative;
+    border-radius: 20px;
+    right: -150px;
+    top: 3px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#0862df4b;
+}
+
+div.set-fee button:hover {
+    opacity: 100%;
+}
+
+div.set-threshold {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+div.set-threshold input {
+    position: relative;
+    width: 5%;
+    text-align: center;
+}
+
+div.set-threshold button{
+    position: relative;
+    border-radius: 20px;
+    right: -150px;
+    top: 3px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#0862df4b;
+}
+
+div.set-threshold button:hover {
+    opacity: 100%;
+}
+
+div.set-rewards {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+div.set-rewards input {
+    position: relative;
+    width: 5%;
+    text-align: center;
+}
+
+div.set-rewards button{
+    position: relative;
+    border-radius: 20px;
+    right: -50px;
+    top: 40px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#0862df4b;
+}
+
+div.set-rewards button:hover {
+    opacity: 100%;
+}
+
+div.set-vote-cost {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+div.set-vote-cost input {
+    position: relative;
+    width: 5%;
+    text-align: center;
+}
+
+div.set-vote-cost button{
+    position: relative;
+    border-radius: 20px;
+    right: -150px;
+    top: 3px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#0862df4b;
+}
+
+div.release-funds button:hover {
+    opacity: 100%;
+}
+
+div.release-funds {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+div.release-funds input {
+    position: relative;
+    width: 5%;
+    text-align: center;
+}
+
+div.release-funds button{
+    position: relative;
+    border-radius: 20px;
+    right: -150px;
+    top: 3px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#0862df4b;
+}
+
+div.release-funds button:hover {
+    opacity: 100%;
+}
+
+div.make-proceedings {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+div.make-proceedings button{
+    position: relative;
+    border-radius: 20px;
+    right: -50px;
+    top: 3px;
+    opacity: 80%;
+    border: 2px solid rgb(255, 250, 240);
+    background-color:#131932;
+}
+
+div.make-proceedings button:hover {
+    opacity: 100%;
+}
